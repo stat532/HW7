@@ -1,0 +1,23 @@
+---
+title: "HW 7"
+output: html_document
+---
+
+#### Q1. 
+Read the article titled [Stein's Paradox in Statistics](http://statweb.stanford.edu/~ckirby/brad/other/Article1977.pdf).
+
+##### 4 points
+Briefly describe your thoughts on the article.
+
+##### 4 points
+How does this article illustrate the concept of shrinkage?
+
+
+#### Q2. (10 points) 
+Write out code for a Gibbs sampler with multivariate data. To show that your sampler works, simulate data from a 2-D multivariate normal distribution and estimate the mean vector and covariance matrix.
+
+#### Q3. (4 points)
+Create a file (preferably a R Markdown or sweave file) for your project. Write an introductory paragraph summarizing the data set you are using and the research question you plan to answer. Upload the PDF file of your working project.
+
+
+
